@@ -59,9 +59,9 @@ Josh utilizes three predictive models and selects the most effective one to dete
 - Predicting based on an opponent's patterns
 - Predicting based on an opponent's response to it's own patterns
 - Predicting based on opponents learning it's own patterns
-  Josh will also occasionally perform a purely random play to throw off others.
-  Josh's depth parameters and randomness factor are tunable for experimentation and performance optimization.
-  Josh is expected to achieve over a 60% win rate against the other bots in games of at least 1000 rounds and becomes more reliable the longer the match goes on.
+Josh will also occasionally perform a purely random play to throw off others.
+Josh's depth parameters and randomness factor are tunable for experimentation and performance optimization.
+Josh is expected to achieve over a 60% win rate against the other bots in games of at least 1000 rounds and becomes more reliable the longer the match goes on.
 
 ### Quincy
 
